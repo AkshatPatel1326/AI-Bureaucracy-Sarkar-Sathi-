@@ -30,17 +30,17 @@ Millions of Indian citizens face difficulty accessing government schemes due to:
 
 ## 🔥 Core Features (3 Flows)
 
-### 1️⃣ Benefit Hunter (YojanaMitra)
+### 1️⃣ Benefit Hunter 
 👉 **User enters:** Age, Income, State, Occupation.  
 👉 **System:** Matches with relevant government schemes and shows benefits + eligibility.  
 🎯 **Outcome:** User discovers schemes they didn’t know existed.
 
-### 2️⃣ Document Validator (DastaavezCheck)
+### 2️⃣ Document Validator 
 👉 **User:** Selects service (Scholarship / MSME / License) and uploads required documents.  
 👉 **System:** Checks validity using logic + OCR and shows **✅ READY** or **❌ NOT READY**.  
 🎯 **Outcome:** Reduces rejection chances before applying.
 
-### 3️⃣ Appeal Generator (NyaySaathi)
+### 3️⃣ Appeal Generator 
 👉 **User:** Uploads rejection letter OR enters text.  
 👉 **System:** Explains rejection in simple language and generates a professional appeal letter.  
 🎯 **Outcome:** Helps user reapply and get approval.
